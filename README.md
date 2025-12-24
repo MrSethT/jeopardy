@@ -1,6 +1,6 @@
 # 🏟️ Jeopardy! – A Trivia Game in HTML
 
-An interactive trivia game built using vanilla html and JavaScript inspired by the TV show **"Jeopardy"**.  
+An interactive trivia game built using vanilla html and JavaScript inspired by the TV show **"Jeopardy!"**.  
 The game is built as a board of clue tiles
 
 ---
@@ -56,8 +56,8 @@ The team with the most money at the end of the round wins the game.
 The Board
 ![Alt text](/media/board.png?raw=true "The Board")
 
-A Clue
-![Alt text](/media/clue.png?raw=true "A Clue")
+An Answer
+![Alt text](/media/answer.png?raw=true "An Answer")
 
 Final Jeopardy!
 ![Alt text](/media/final.png?raw=true "Final Jeopardy")
@@ -67,7 +67,8 @@ Final Jeopardy!
 ## 🔍 Clue Generation Sources
 
 [The Jeopardy! TV Show Game Archive](https://j-archive.com/)
-[Trivia For CHildren](https://www.funtrivia.com/trivia-quiz/ForChildren/You-Can-Count-On-It-362573.html)
+<br>
+[Trivia For CHildren](https://www.funtrivia.com/trivia-quiz/ForChildren/You-Can-Count-On-It-362573.html)<br>
 [An encoder for creating anogram clues and number puzles](https://cryptii.com/)
 
 ---
