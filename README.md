@@ -88,6 +88,7 @@ js/
 ├── plugins.js         # third party plugins
 │
 game.json              # game categories and clues **Edit this one**
+jeopardy.HTML		   # main HTML file (ignore)
 |
 
 ```
@@ -152,5 +153,6 @@ The **final** object defines the final (Jeopardy-style) clue shown at the end of
 
 1. Desgined to be run in IIS, but can be run in any web server
 2. Clone or download the repository
-3. Open the `jeopardy.html` file in a web browser
-4. Enjoy!
+3. Edit the `game.json` file to add or modify your own game board
+4. Open the `jeopardy.html` file in a web browser
+5. Enjoy!
