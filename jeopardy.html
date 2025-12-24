@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8" />
+    <title>This Is Jeopardy!</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta property="og:title" content="" />
+    <meta property="og:type" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="" />
+
+    <link rel="manifest" href="site.webmanifest" />
+    <link rel="apple-touch-icon" href="icon.png" />
+    <!-- Place favicon.ico in the root directory -->
+
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/main.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="css/font.css" />
+
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  </head>
+
+  <body>
+    <!-- Add your site or application content here -->
+    <div class="wrap">
+      <div class="game"></div>
+      <div class="score" style="display: none">
+        <div class="team text-center winning">
+          <p>Team A</p>
+          <p class="teamA">0</p>
+        </div>
+        <div class="team text-center">
+          <p>Team B</p>
+          <p class="teamB">0</p>
+        </div>
+        <div class="team text-center">
+          <p>Team C</p>
+          <p class="teamC">0</p>
+        </div>
+        <div class="final" style="display: none;">
+          <div class="team text-center">
+            <label for="txtWagerA">Wager</label><br/>
+            <input type="number" id="txtWagerA" class="wager" value="0" min="0"/>
+            <button type="button" class="btn btnRight">✔</button>
+            <button type="button" class="btn btnWrong">❌</button>
+          </div>
+
+          <div class="team text-center">
+            <label for="txtWagerB">Wager</label><br/>
+            <input type="number" id="txtWagerB" class="wager" value="0" min="0"/>
+            <button type="button" class="btn btnRight">✔</button>
+            <button type="button" class="btn btnWrong">❌</button>
+          </div>
+
+          <div class="team text-center">
+            <label for="txtWagerC">Wager</label><br/>
+            <input type="number" id="txtWagerC" class="wager" value="0" min="0"/>
+            <button type="button" class="btn btnRight">✔</button>
+            <button type="button" class="btn btnWrong">❌</button>
+          </div>
+          <audio id="audio" src="Jeopardy-song.mp3"></audio>
+          <audio id="audioTheme" src="Jeopardy-theme-song.mP3"></audio>
+        </div>
+        <div class="final final-other" style="display: none;">
+          <div class="finalCategory text-category text-center "></div>
+          <div class="finalClue text-clue  text-center" style="display: none;"></div>
+          <div class="finalQuestion text-question text-center" style="display: none"></div>
+        </div>
+        <div class="question text-center">
+          <p class="q">0</p>
+          <span class="right"></span>
+          <span class="wrong blinking">❌</span>
+        </div>
+      </div>
+    </div>
+    <!-- End Wrap -->
+
+    <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+    <script src="js/vendor/jquery-3.6.0.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+
+    <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+    <script>
+      window.ga = function () {
+        ga.q.push(arguments);
+      };
+      ga.q = [];
+      ga.l = +new Date();
+      ga("create", "UA-XXXXX-Y", "auto");
+      ga("set", "anonymizeIp", true);
+      ga("set", "transport", "beacon");
+      ga("send", "pageview");
+    </script>
+    <script src="https://www.google-analytics.com/analytics.js" async></script>
+  </body>
+</html>

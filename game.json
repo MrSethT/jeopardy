@@ -1,0 +1,217 @@
+{
+  "lookAHere": "https://j-archive.com/",
+  "lookAHere2": "https://www.funtrivia.com/trivia-quiz/ForChildren/You-Can-Count-On-It-362573.html",
+  "categories": [
+    {
+      "name": "SOFT DRINKS*",
+      "help": "https://cryptii.com/",
+      "clues": [
+        {
+          "clue": "A Terre Haute, Indiana glass company designed this soda's classic bottle in 1916",
+          "question": "What is Coca-Cola?",
+          "hint": ""
+        },
+        {
+          "clue": "This convenience store chain's Double Gulp contains 1/2 gallon of soda",
+          "question": "What is 7-Eleven?",
+          "hint": ""
+        },
+        {
+          "clue": "This company introduced its Quik drink mix in 1948",
+          "question": "What is Nestlé?",
+          "hint": ""
+        },
+        {
+          "clue": "This soft drink, invented by Charles Hires, was flavored with sarsaparilla, wintergreen & sassafras",
+          "question": "What is root beer?",
+          "hint": ""
+        },
+        {
+          "clue": "A southern treat, clabber is this liquid when it's thickened and soured naturally",
+          "question": "What is milk?",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "name": "Today's Lesson",
+      "clues": [
+        {
+          "clue": "This is who taught today's lesson.",
+          "question": "Who is Bro. Joey?"
+        },
+        {
+          "clue": "This is who Joseph was most worried about offending if he fell to the temptation",
+          "question": "Who is God?",
+          "hint": ""
+        },
+        {
+          "clue": "The number one point was to do this to deal with temptation",
+          "question": "What is to prepare?"
+        },
+        {
+          "clue": "This is the best way to prepare for temptaion",
+          "question": "What is it to hide God's word in our hearts?",
+          "hint": ""
+        },
+        {
+          "clue": "The shuold be our reaction to temptation when it appears",
+          "question": "What is to flee it?",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "name": "Recent and Upcoming Church",
+      "clues": [
+        {
+          "clue": "This important church activity will next be held this Saturday, November 15, at 10:30 in the morning",
+          "question": "What is community outreach?"
+        },
+        {
+          "clue": "This weekly thing happens on Wednesdays at 2:30, and we should try to be praying for it",
+          "question": "What is Child Evangelism Fellowship or Good News Club?"
+        },
+        {
+          "clue": "This important part of the body is having his next birthday just before Thanksgiving on Nov 25",
+          "question": "Who is Aiden Schutte?"
+        },
+        {
+          "clue": "This is the special fun-night planned for Wednesday night in the Teen Life and AWANA programs",
+          "question": "What is Patriotic night?"
+        },
+        {
+          "clue": "Bro. Gene said that last week's sermon was the first part of a sermon series; if so, today's sermon will be about this",
+          "question": "What is how to subdue temptation?"
+        }
+      ]
+    },
+    {
+      "name": "Animal Food Rhyme Time",
+      "clues": [
+        {
+          "clue": "The no-armed animals that eat these porterhouses must get frustrated trying to cut them",
+          "question": "What are snake steaks?",
+          "hint": "🐍🥩"
+        },
+        {
+          "clue": "This is either Bullwinkle's favorite drink or a drink made from him",
+          "question": "What is moose juice?",
+          "hint": "🫎🧃"
+        },
+        {
+          "clue": "A fruit loved by a close relative of a rabbit",
+          "question": "What is a hare pear?",
+          "hint": "🐇🍐"
+        },
+        {
+          "clue": "A dish, usually meat and vegetables, that is simmered slowly in liquid—a big meal for a small, mouse-like mammal that has a long, pointed snout",
+          "question": "What is a shrew stew?",
+          "hint": ""
+        },
+        {
+          "clue": "A colorful version of a long, pointy tuber that can talk to you",
+          "question": "What is a parrot carrot?",
+          "hint": "🦜🥕"
+        }
+      ]
+    },
+    {
+      "name": "Four Letters and a Y",
+      "clues": [
+        {
+          "clue": "Late to class",
+          "question": "What is tardy?"
+        },
+        {
+          "clue": "It's a boat used to carry passengers & vehicles across a river",
+          "question": "What is a ferry?"
+        },
+        {
+          "clue": "Not clean",
+          "question": "What is dirty?",
+          "hint": ""
+        },
+        {
+          "clue": "It's gotta be this 'cause jam don't shake like that",
+          "question": "What is jelly?",
+          "hint": ""
+        },
+        {
+          "clue": "SpongeBob is often excited to tell you that he is this",
+          "question": "What is ready?",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "name": "Aiden",
+      "clues": [
+        {
+          "clue": "This is what color shirt {name} is wearing",
+          "question": "What is...👀?"
+        },
+        {
+          "clue": "This is what {name} had for breakfast this morning",
+          "question": "What is...👀?"
+        },
+        {
+          "clue": "This is {name}'s favorite color",
+          "question": "What is...👀?",
+          "hint": ""
+        },
+        {
+          "clue": "{name} was born on this day of the year, and it's also his birthday🎂",
+          "question": "What is...👀?",
+          "hint": ""
+        },
+        {
+          "clue": "This is what number {name} is thinking of right now",
+          "question": "What is...👀?",
+          "hint": ""
+        }
+      ]
+    }
+  ],
+  "unused": {
+    "name": "Who's that Pokémon!?",
+    "help": "https://www.textstudio.com/logo/pokemon-3d-text-318",
+    "clues": [
+      {
+        "image": "images/caterpieb.png",
+        "imageq": "images/caterpiea.png",
+        "clue": "This is that Pokémon",
+        "question": "Who is Caterpie?"
+      },
+      {
+        "image": "images/diglettb.png",
+        "imageq": "images/digletta.png",
+        "clue": "This is that Pokémon",
+        "question": "Who is Diglett?"
+      },
+      {
+        "image": "images/cuboneb.png",
+        "imageq": "images/cubonea.png",
+        "clue": "This is that Pokémon",
+        "question": "Who is Cubone?"
+      },
+      {
+        "image": "images/dedenneb.png",
+        "imageq": "images/dedennea.png",
+        "clue": "This is that Pokémon",
+        "question": "Who is Dedenne?"
+      },
+      {
+        "image": "images/munchlaxb.png",
+        "imageq": "images/munchlaxa.png",
+        "clue": "This is that Pokémon",
+        "question": "Who is Munchlax?"
+      }
+    ]
+  },
+  "final": {
+    "category": "THE ROMAN EMPIRE",
+    "clue": "Martial's 'Book of Spectacles' in 80 A.D. was a book of poems published for this landmark's opening",
+    "question": "What is the Coliseum?"
+  }
+}

@@ -1,0 +1,594 @@
+/*! HTML5 Boilerplate v8.0.0 | MIT License | https://html5boilerplate.com/ */
+
+/* main.css 2.1.0 | MIT License | https://github.com/h5bp/main.css#readme */
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+body {
+  background: black;
+  font-family: "Arial", sans-serif;
+  text-shadow: 0.2em 0.25em 0 black;
+}
+
+.wrap {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  min-height: 500px;
+  overflow: hidden;
+}
+
+.game {
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-perspective: 500px;
+  perspective: 500px;
+  height: 95vh;
+
+}
+
+.wager {
+  font-size: 9vh;
+  height: 10vh;
+  text-align: center;
+  width: 250px;
+}
+
+.right {
+  color: green;
+}
+
+.wrong {
+  color: red;
+}
+.blinking {
+  animation: blinkingTextLarge 0.8s infinite;
+}
+.dailyDouble {
+  font-size: 10vh;
+  height: 12vh;
+  color: yellow;
+  animation: blinkingTextSmall 0.8s infinite;
+}
+
+@keyframes blinkingTextSmall {
+  0% {
+    opacity: 0;
+    font-size: 10vh;
+  }
+
+  50% {
+    opacity: 0.5;
+    font-size: 11vh;
+  }
+
+  100% {
+    opacity: 1;
+    font-size: 10vh;
+  }
+}
+
+@keyframes blinkingTextLarge {
+  0% {
+    opacity: 0;
+    font-size: 40vh;
+  }
+
+  50% {
+    opacity: 0.5;
+    font-size: 45vh;
+  }
+
+  100% {
+    opacity: 1;
+    font-size: 40vh;
+  }
+}
+
+.final-other {
+  height: 100%;
+}
+
+.final {
+  background-color: blue;
+  font-size: 7vh;
+  color: white;
+}
+
+.category {
+  float: left;
+  height: 100%;
+  padding: 2px;
+  text-align: center;
+  display: block;
+  -webkit-perspective: 500px;
+  perspective: 500px;
+  position: relative;
+  cursor: pointer;
+  z-index: 50;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.card {
+  width: 100%;
+  height: 16.666%;
+  padding: 0px;
+  text-align: center;
+  display: block;
+  -webkit-perspective: 500px;
+  perspective: 500px;
+  position: relative;
+  cursor: pointer;
+  z-index: 50;
+  background-color: black;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+@media (max-width: 800px) {
+  .card {
+    width: 25%;
+    height: 16.666%;
+  }
+}
+
+.card .inside {
+  width: 100%;
+  height: 100%;
+  display: block;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  transition: 0.4s ease-in-out;
+  color: white;
+  background: blue;
+  font-family: "DM Serif Text", serif;
+  border-radius: 10px;
+}
+
+.card.title .inside {
+  font-family: "Oswald", sans-serif;
+}
+
+.card .inside.answered p {
+  display: none;
+}
+
+.card .inside.picked,
+.card .inside.matched {
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+  -webkit-animation: 1s matchAnim ease-in-out;
+  animation: 1s matchAnim ease-in-out;
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+
+.card .inside.picked p {
+  font-size: 9vh;
+}
+
+.picked {
+  left: 0px;
+  top: 0px;
+  width: 100vw;
+  height: 100%;
+  position: absolute;
+  z-index: 51 !important;
+}
+
+.card .inside.matched {
+  -webkit-animation: 1s matchAnim ease-in-out;
+  animation: 1s matchAnim ease-in-out;
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+  background: transparent !important;
+}
+
+.card .inside.matched .front {
+  display: none;
+}
+
+.card.matched {
+  background: transparent !important;
+}
+
+.card p {
+  margin: 0;
+  position: absolute; /* 2 */
+  top: 50%;
+  left: 10%; /* 3 */
+  width: 80%; /* 3 */
+  transform: translate(0, -50%);
+  text-align: center;
+}
+
+.card .front,
+.card .back {
+  border: 1px solid black;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  font-size: xx-large;
+}
+
+.card .front {
+  font-size: x-large;
+}
+
+.card .back {
+  color: yellow;
+  font-size: 9vh;
+  font-family: "Anton", sans-serif;
+}
+
+.card.title .back {
+  color: white !important;
+  font-size: 2em;
+}
+
+.card .front img,
+.card .back img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  max-height: 50vh;
+}
+
+.card .front {
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+
+.text-category {
+  font-family: "Anton";
+}
+
+.text-clue {
+  font-family: "DM Serif Text", serif;
+}
+
+.text-question {
+  font-family: "Arial", serif;
+}
+
+.btnRight {
+  color: green;
+}
+.btnWrong {
+}
+.btn {
+  font-size: 6vh;
+  cursor: pointer;
+  background: blue;
+  border: none;
+  outline:none;
+}
+
+.score {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.team {
+  color: white;
+  font-family: "Anton", serif;
+  float: left;
+  width: 33.33%;
+  height: 30%;
+  font-size: 10vh;
+  background-color: blue;
+}
+
+.team p {
+  margin: 1vh;
+}
+
+.winning {
+  background: linear-gradient(270deg, #f8d42d, #f8572d);
+  background-size: 400% 400%;
+
+  -webkit-animation: AnimationName 2s ease infinite;
+  -moz-animation: AnimationName 2s ease infinite;
+  animation: AnimationName 2s ease infinite;
+
+  color: white !important;
+}
+
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes AnimationName {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+
+
+.question {
+  float: left;
+  width: 100%;
+  height: 70%;
+  font-size: 8vh;
+  background-color: blue;
+  color: white;
+}
+
+.question p {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+.question p img {
+max-height:375px;
+}
+
+.blue {
+  color: #28afe6;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.win {
+  font-family: "Anton", sans-serif;
+  padding: 10px 20px;
+  display: block;
+  font-size: 20px;
+  border: none;
+  background: #4d4d4d;
+  background: linear-gradient(#4d4d4d, #222);
+  border: 1px solid #222;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+@media (max-width: 800px) {
+  .card .front {
+    padding: 5px;
+  }
+}
+
+.card .back {
+  -webkit-transform: rotateX(0);
+  transform: rotateX(0);
+}
+
+@media (max-width: 800px) {
+  .card .back {
+    padding: 10px;
+  }
+}
+
+.modal-overlay {
+  display: none;
+  /* background: rgba(0, 0, 0, 0.8); */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 99vh;
+}
+
+.modal {
+  display: none;
+  position: absolute;
+  height: 400px;
+  max-height: 90%;
+  max-width: 90%;
+  min-height: 380px;
+  margin: 0 auto;
+  top: 20%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  padding: 30px 10px;
+}
+
+.modal .verse {
+  background-color: white;
+  display: none;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  padding: 30px 10px;
+  font-family: "Anton", sans-serif;
+  font-size: 30px;
+  top: 540px;
+  position: absolute;
+}
+
+.modal .winner {
+  font-size: 80px;
+  text-align: center;
+  font-family: "Anton", sans-serif;
+  color: #4d4d4d;
+}
+
+@media (max-width: 480px) {
+  .modal .winner {
+    font-size: 60px;
+  }
+}
+
+.modal button {
+  font-family: "Anton", sans-serif;
+  margin: 30px auto;
+  padding: 20px 30px;
+  display: block;
+  font-size: 30px;
+  border: none;
+  background: #4d4d4d;
+  background: linear-gradient(#4d4d4d, #222);
+  border: 1px solid #222;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.modal button:hover {
+  background: linear-gradient(#222, black);
+}
+
+.modal .message {
+  text-align: center;
+}
+
+.modal .message a {
+  text-decoration: none;
+  color: #28afe6;
+  font-weight: bold;
+}
+
+.modal .message a:hover {
+  color: #56c0eb;
+  border-bottom: 1px dotted #56c0eb;
+}
+
+.modal .share-text {
+  text-align: center;
+  margin: 10px auto;
+}
+
+.modal .social {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.modal .social li {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.modal .social li:last-child {
+  margin-right: 0;
+}
+
+.modal .social li a {
+  display: block;
+  line-height: 50px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.modal .social li a.facebook {
+  background: #3b5998;
+}
+
+.modal .social li a.facebook:hover {
+  background: #4c70ba;
+}
+
+.modal .social li a.google {
+  background: #d34836;
+}
+
+.modal .social li a.google:hover {
+  background: #dc6e60;
+}
+
+.modal .social li a.twitter {
+  background: #4099ff;
+}
+
+.modal .social li a.twitter:hover {
+  background: #73b4ff;
+}
+
+footer {
+  height: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+  z-index: 0;
+}
+
+footer .disclaimer {
+  line-height: 20px;
+  font-size: 12px;
+  color: #727272;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  footer .disclaimer {
+    font-size: 8px;
+  }
+}
+
+.q::after {
+    content: "(Click to continue)";
+    display: block;
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 30px;
+    clear: both;
+}
