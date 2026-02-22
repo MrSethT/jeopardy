@@ -391,6 +391,6 @@ var cachebuster = Math.round(new Date().getTime() / 1000);
 fetch("game.json?" + cachebuster)
   .then((resp) => resp.json())
   .then(function (data) {
-    categories = data.categories;
+    categories = data.categories.filter(c => !c.skip);
     Memory.init(categories, data.final);
   });
