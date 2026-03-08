@@ -182,31 +182,31 @@
       "clues": [
         {
           "image": "images/hockeyb.jpg",
-          "imageq": "images/hockeya.jpg",
+          "imageQ": "images/hockeya.jpg",
           "clue": "This is that pictorgram",
           "question": "Who is hockey?"
         },
         {
           "image": "images/bobsledb.jpg",
-          "imageq": "images/bobsleda.jpg",
+          "imageQ": "images/bobsleda.jpg",
           "clue": "This is that pictorgram",
           "question": "Who is bobsled?"
         },
         {
           "image": "images/crosscountryb.jpg",
-          "imageq": "images/crosscountrya.jpg",
+          "imageQ": "images/crosscountrya.jpg",
           "clue": "This is that pictorgram",
           "question": "Who is cross country skiing?"
         },
         {
           "image": "images/skeletonb.jpg",
-          "imageq": "images/skeletona.jpg",
+          "imageQ": "images/skeletona.jpg",
           "clue": "This is that pictorgram",
           "question": "Who is skeleton?"
         },
         {
           "image": "images/lugeb.jpg",
-          "imageq": "images/lugea.jpg",
+          "imageQ": "images/lugea.jpg",
           "clue": "This is that pictorgram",
           "question": "Who is luge?"
         }

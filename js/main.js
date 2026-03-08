@@ -73,6 +73,24 @@ var Memory = {
       .find(".category")
       .css("width", 100 / this.$categories.length + "%");
 
+$('.score p').on('dblclick', function() {
+  var scoreStart = parseInt($(this).text().replace(/[^0-9\-]/g, ""));
+  var scoreNew = prompt("Enter new score:", scoreStart);
+  if (scoreNew !== null) {
+    scoreNew = parseInt(scoreNew);
+  if($(this).hasClass('teamA')) {
+    Memory.scoreA = scoreNew;
+  } 
+  else if($(this).hasClass('teamB')) {
+    Memory.scoreB = scoreNew;
+  }
+  else if($(this).hasClass('teamC')) {
+    Memory.scoreC = scoreNew;
+  }   
+  Memory.updateScores();
+}
+});
+
     this.paused = false;
     this.currentClueId = 0;
     this.scoreA = 0;
@@ -92,7 +110,7 @@ var Memory = {
   keypress: function (e) {
     console.log(e);
     if (e.which >= 48 && e.which <= 57) {
-      //isnumeric
+      //isNumeric
       //ignore key press
     } else {
       e.preventDefault();
@@ -192,10 +210,10 @@ var Memory = {
       $card.find(".inside").addClass("picked");
       $card.addClass("picked");
       $card.parent().addClass("picked");
-      var imageq = $card.data("qi");
+      var imageQ = $card.data("qi");
       var img = "";
-      if (imageq) {
-        img = "<img src='" + imageq + "'/><br/>";
+      if (imageQ) {
+        img = "<img src='" + imageQ + "'/><br/>";
       }
 
       $(".q").html(img + $card.data("q"));
@@ -342,7 +360,7 @@ var Memory = {
           '" data-hint="' +
           ans.hint +
           '" data-qi="' +
-          (ans.imageq ?? "") +
+          (ans.imageQ ?? "") +
           '">';
         frag += '<div class="inside">';
 
@@ -387,8 +405,8 @@ var Memory = {
 
 var categories = [];
 
-var cachebuster = Math.round(new Date().getTime() / 1000);
-fetch("game.json?" + cachebuster)
+var cacheBuster = Math.round(new Date().getTime() / 1000);
+fetch("game.json?" + cacheBuster)
   .then((resp) => resp.json())
   .then(function (data) {
     categories = data.categories.filter(c => !c.skip);
