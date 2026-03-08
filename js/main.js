@@ -73,23 +73,26 @@ var Memory = {
       .find(".category")
       .css("width", 100 / this.$categories.length + "%");
 
-$('.score p').on('dblclick', function() {
-  var scoreStart = parseInt($(this).text().replace(/[^0-9\-]/g, ""));
-  var scoreNew = prompt("Enter new score:", scoreStart);
-  if (scoreNew !== null) {
-    scoreNew = parseInt(scoreNew);
-  if($(this).hasClass('teamA')) {
-    Memory.scoreA = scoreNew;
-  } 
-  else if($(this).hasClass('teamB')) {
-    Memory.scoreB = scoreNew;
-  }
-  else if($(this).hasClass('teamC')) {
-    Memory.scoreC = scoreNew;
-  }   
-  Memory.updateScores();
-}
-});
+    $(".scoreBox").on("dblclick", function () {
+      var scoreStart = Memory.scoreA;
+      if ($(this).hasClass("teamB")) {
+        scoreStart = Memory.scoreB;
+      } else if ($(this).hasClass("teamC")) {
+        scoreStart = Memory.scoreC;
+      }
+      var scoreNew = prompt("Enter new score:", scoreStart);
+      if (scoreNew !== null) {
+        scoreNew = parseInt(scoreNew);
+        if ($(this).hasClass("teamA")) {
+          Memory.scoreA = scoreNew;
+        } else if ($(this).hasClass("teamB")) {
+          Memory.scoreB = scoreNew;
+        } else if ($(this).hasClass("teamC")) {
+          Memory.scoreC = scoreNew;
+        }
+        Memory.updateScores();
+      }
+    });
 
     this.paused = false;
     this.currentClueId = 0;
@@ -382,7 +385,7 @@ $('.score p').on('dblclick', function() {
             "</span>";
         }
         frag +=
-          ans.clue.replace('{name}', cat.name).toUpperCase() +
+          ans.clue.replace("{name}", cat.name).toUpperCase() +
           hint +
           '</p></div>\
 				<div class="back"><p>$' +
@@ -409,6 +412,6 @@ var cacheBuster = Math.round(new Date().getTime() / 1000);
 fetch("game.json?" + cacheBuster)
   .then((resp) => resp.json())
   .then(function (data) {
-    categories = data.categories.filter(c => !c.skip);
+    categories = data.categories.filter((c) => !c.skip);
     Memory.init(categories, data.final);
   });
