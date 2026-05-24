@@ -3,32 +3,32 @@
   "lookAHere2": "https://www.funtrivia.com/trivia-quiz/ForChildren/You-Can-Count-On-It-362573.html",
   "categories": [
     {
-      "name": "THE LANGUAGE OF FOOD*",
+      "name": "ABBREV.*",
       "help": "https://cryptii.com/",
       "clues": [
         {
-          "clue": "'Easy as' this, be it farmhouse raisin or double berry icebox",
-          "question": "What is pie?",
+          "clue": "It would be criminal for you not to know that FBI stands for this",
+          "question": "What is Federal Bureau of Investigation?",
           "hint": ""
         },
         {
-          "clue": "When you 'spill' these, tell us if they are Jacob's cattle or moth types",
-          "question": "What are beans?",
+          "clue": "MT is an abbreviation for megaton as well as this U.S. state",
+          "question": "What is Montana?",
           "hint": ""
         },
         {
-          "clue": "'Cool as a' this; the English variety can grow up to 2 feet long",
-          "question": "What is cucumber?",
+          "clue": "It's the unit of weight abbreviated mg",
+          "question": "What is milligram?",
           "hint": ""
         },
         {
-          "clue": "'Life is just a bowl of' these; one sour type is the dark mahogany red morello",
-          "question": "What is cherries?",
+          "clue": "Providing online access, ISP stands for this",
+          "question": "What is Internet Service Provider?",
           "hint": ""
         },
         {
-          "clue": "'The proof is in' this, which can be thickened with anything from eggs to cornstarch to flour",
-          "question": "What is pudding?",
+          "clue": "This agency of the United Nations is known as WHO for short",
+          "question": "What is World Health Organization?",
           "hint": ""
         }
       ]
@@ -41,22 +41,22 @@
           "question": "Who is Bro. Joey?"
         },
         {
-          "clue": "You should not light these, they just hold candles",
-          "question": "What is a candlestick?",
+          "clue": "THis is the Bible word in Isaiah that means 'God with us'",
+          "question": "What is a Emmanuel?",
           "hint": ""
         },
         {
-          "clue": "This is what the Bible compares the length of our lives to",
-          "question": "What is a vapor?"
+          "clue": "This is the unlikely group that Jesus birth was announced to",
+          "question": "Who are the shepherds?"
         },
         {
-          "clue": "This is how much time passes between when you die and when you arrive in heaven or hell",
-          "question": "What is none?",
+          "clue": "This is a great way to start the day",
+          "question": "What is by glorifying God?",
           "hint": ""
         },
         {
-          "clue": "The is the final destination you should choose for life",
-          "question": "What is heaven",
+          "clue": "The is what the shepherds did immediately after finding Jesus",
+          "question": "What is to go and tell/spread the news",
           "hint": ""
         }
       ]
@@ -65,7 +65,7 @@
       "name": "GSBC",
       "clues": [
         {
-          "clue": "This important church activity was going to be yesterday but it was postponed",
+          "clue": "This important church activity is next going to be held next Saturday at 10:30 am",
           "question": "What is community outreach?"
         },
         {
@@ -73,86 +73,86 @@
           "question": "What is Child Evangelism Fellowship or Good News Club?"
         },
         {
-          "clue": "This important part of the body is having his next birthday in 9 days",
-          "question": "Who is Ethan Blackburn?"
+          "clue": "This lovable youth leader and parent is having a birthday this Wednesday, and we should wish him a happy one",
+          "question": "Who is Mr. Nathan?"
         },
         {
-          "clue": "This is the special fun-night planned for Wednesday night on March 4",
-          "question": "What is Crazy Sock night?",
-          "hint": "🧦🧦"
+          "clue": "This is the date for Easter 2026",
+          "question": "What is April 5?",
+          "hint": ""
         },
         {
-          "clue": "Bro. Gene said that last week's sermon was part of a sermon series about maintaining these",
-          "question": "What are relationships?"
+          "clue": "Last Sunday Bro. Gene preached on this sacred location",
+          "question": "What is Gethsemane?"
         }
       ]
     },
     {
-      "name": "Olympic Rhyme Time",
+      "name": "OT Rhyme Time",
       "clues": [
         {
-          "clue": "After throwing his last strike, Alafonzo won 1st place, meaning he had done this",
-          "question": "What is bowled gold?",
-          "hint": "🎳🥇"
+          "clue": "This is the outer shell of the wooden ship God had created to save the world",
+          "question": "What is ark bark?",
+          "hint": "🛳️"
         },
         {
-          "clue": "This is the biggest version of the one where you lay on your back and hurdle down an ice pipe",
-          "question": "What is the huge luge?",
+          "clue": "These are the guys that helped Daniel get out after his trial was completed",
+          "question": "What are lion's den men?",
+          "hint": "🦁"
+        },
+        {
+          "clue": "If Jonah's nemesis could have been legally prosecuted, he prolly would have ended up here",
+          "question": "What is whale jail?",
+          "hint": "🐋"
+        },
+        {
+          "clue": "After the first plague, the Egyptians had make their sand castles out of this gross side effect",
+          "question": "What is blood mud?",
           "hint": ""
         },
         {
-          "clue": "In this new sport they will combine the spinning of figure skating with the one Canada cheats at",
-          "question": "What is twirling curling?",
-          "hint": "🛞🥌"
-        },
-        {
-          "clue": "This is what the team captain of the team that goes down hill on 2 sticks does all the time",
-          "question": "What is overseeing skiing?",
-          "hint": ""
-        },
-        {
-          "clue": "This is what happened with someone told the Jamaica team to make a wrong turn on their famous winter event",
-          "question": "What is a they were mislead on the bobsled?",
-          "hint": "🛷"
-        }
-      ]
-    },
-    {
-      "name": "THE ONE & ONLY",
-      "clues": [
-        {
-          "clue": "It's the only mammal that can fly",
-          "question": "What is a bat?",
-          "hint":"🦇"
-        },
-        {
-          "clue": "It's the only one of the Great Lakes to lie entirely within the United States",
-          "question": "What is Lake Michigan?",
-          "hint":"M"
-        },
-        {
-          "clue": "This oldest of the 7 Ancient Wonders is the only one still standing",
-          "question": "What is the Great Pyramid?",
-          "hint": ""
-        },
-        {
-          "clue": "This is the only one of the major religions where it's founder is alive today",
-          "question": "What is Christianity?",
-          "hint": ""
-        },
-        {
-          "clue": "It remains the only Communist country in the Americas",
-          "question": "What is Cuba?",
+          "clue": "When he found out all his kids had been killed, and he had lost all his livestock, this is what got rent",
+          "question": "What is Job's robe?",
           "hint": ""
         }
       ]
     },
     {
-      "name": "Aiden",
-      "skip": true,
+      "name": " EMOJI FRUIT",
+      "skip"  : true,
       "clues": [
         {
-          "clue": "This is what color shirt {name} is wearing",
+          "clue": "💦🍈",
+          "question": "What is watermelon?",
+          "hint": ""
+        },
+        {
+          "clue": "🌲🍎",
+          "question": "What is pineapple?",
+          "hint":""
+        },
+        {
+          "clue": "🤩🍇🍌",
+          "question": "What is star fruit?",
+          "hint": ""
+        },
+        {
+          "clue": "🔵🐻E",
+          "question": "What is Blueberry?",
+          "hint": ""
+        },
+        {
+          "clue": "🫛👂",
+          "question": "What is a pear?",
+          "hint":""
+        }
+      ]
+    },
+    {
+      "name": "Rett",
+      "clues": [
+        {
+          "clue": "This is what color socks {name} is wearing",
           "question": "What is...👀?"
         },
         {
@@ -160,12 +160,12 @@
           "question": "What is...👀?"
         },
         {
-          "clue": "This is {name}'s favorite color",
+          "clue": "This is {name}'s favorite food",
           "question": "What is...👀?",
           "hint": ""
         },
         {
-          "clue": "{name} was born on this day of the year, and it's also his birthday🎂",
+          "clue": "{name} was born on this date, and it's also his birthday🎂",
           "question": "What is...👀?",
           "hint": ""
         },
@@ -177,45 +177,45 @@
       ]
     },
     {
-      "name": "Who's that pictogram!?",
+      "name": "Who's that planet!?",
       "help": "https://www.textstudio.com/logo/pokemon-3d-text-318",
       "clues": [
         {
-          "image": "images/hockeyb.jpg",
-          "imageQ": "images/hockeya.jpg",
-          "clue": "This is that pictorgram",
-          "question": "Who is hockey?"
+          "image": "images/earth.jpg",
+          "imageQ": "images/earth.jpg",
+          "clue": "This is that planet",
+          "question": "Who is Earth?"
         },
         {
-          "image": "images/bobsledb.jpg",
-          "imageQ": "images/bobsleda.jpg",
-          "clue": "This is that pictorgram",
-          "question": "Who is bobsled?"
+          "image": "images/saturn.jpg",
+          "imageQ": "images/saturn.jpg",
+          "clue": "This is that planet",
+          "question": "Who is Saturn?"
         },
         {
-          "image": "images/crosscountryb.jpg",
-          "imageQ": "images/crosscountrya.jpg",
-          "clue": "This is that pictorgram",
-          "question": "Who is cross country skiing?"
+          "image": "images/mars.jpg",
+          "imageQ": "images/mars.jpg",
+          "clue": "This is that planet",
+          "question": "Who is Mars?"
         },
         {
-          "image": "images/skeletonb.jpg",
-          "imageQ": "images/skeletona.jpg",
-          "clue": "This is that pictorgram",
-          "question": "Who is skeleton?"
+          "image": "images/jupiter.jpg",
+          "imageQ": "images/jupiter.jpg",
+          "clue": "This is that planet",
+          "question": "Who is Jupiter?"
         },
         {
-          "image": "images/lugeb.jpg",
-          "imageQ": "images/lugea.jpg",
-          "clue": "This is that pictorgram",
-          "question": "Who is luge?"
+          "image": "images/neptune.jpg",
+          "imageQ": "images/neptune.jpg",
+          "clue": "This is that planet",
+          "question": "Who is Neptune?"
         }
       ]
     }
   ],
   "final": {
-    "category": "THE ROMAN EMPIRE",
-    "clue": "Martial's 'Book of Spectacles' in 80 A.D. was a book of poems published for this landmark's opening",
-    "question": "What is the Coliseum?"
+    "category": "U.S. STATE NAMES",
+    "clue": "Of the 4 states that begin & end with the same vowel, the one that doesn't begin & end with the same letter as the other 3 states",
+    "question": "What is Ohio? (Alabama, Alaska, Arizona, Ohio)"
   }
 }
