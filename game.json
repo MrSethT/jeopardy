@@ -3,32 +3,32 @@
   "lookAHere2": "https://www.funtrivia.com/trivia-quiz/ForChildren/You-Can-Count-On-It-362573.html",
   "categories": [
     {
-      "name": "ABBREV.*",
+      "name": "Memorial Day*",
       "help": "https://cryptii.com/",
       "clues": [
         {
-          "clue": "It would be criminal for you not to know that FBI stands for this",
-          "question": "What is Federal Bureau of Investigation?",
+          "clue": "For Memorial Day, the 3rd U.S. infantry regiment places flags in front of more than 200,000 headstones in this cemetery",
+          "question": "What is Arlington National Cemetery?",
           "hint": ""
         },
         {
-          "clue": "MT is an abbreviation for megaton as well as this U.S. state",
-          "question": "What is Montana?",
+          "clue": "The World War I poem 'In Flanders Field' inspired the use of this flower as a symbol for remembering fallen soldiers",
+          "question": "What are poppies?",
           "hint": ""
         },
         {
-          "clue": "It's the unit of weight abbreviated mg",
-          "question": "What is milligram?",
+          "clue": "This traditional song of Memorial Day was originally a call to extinguish lights",
+          "question": "What is Taps?",
           "hint": ""
         },
         {
-          "clue": "Providing online access, ISP stands for this",
-          "question": "What is Internet Service Provider?",
+          "clue": "On the holiday, the Cowboy Museum in Oklahoma hosts a festival for these vehicles, the food trucks of the Old West",
+          "question": "What are chuck wagons?",
           "hint": ""
         },
         {
-          "clue": "This agency of the United Nations is known as WHO for short",
-          "question": "What is World Health Organization?",
+          "clue": "To honor the 100th anniversary of a battle here, LBJ gave a Memorial Day speech in 1963",
+          "question": "What is Gettysburg?",
           "hint": ""
         }
       ]
@@ -41,22 +41,23 @@
           "question": "Who is Bro. Joey?"
         },
         {
-          "clue": "THis is the Bible word in Isaiah that means 'God with us'",
-          "question": "What is a Emmanuel?",
+          "clue": "This is how many a 'score' is",
+          "question": "What is 20?",
           "hint": ""
         },
         {
-          "clue": "This is the unlikely group that Jesus birth was announced to",
-          "question": "Who are the shepherds?"
-        },
-        {
-          "clue": "This is a great way to start the day",
-          "question": "What is by glorifying God?",
+          "clue": "This is how long a furlong is in miles",
+          "question": "What is 1/8 of a mile?",
           "hint": ""
         },
         {
-          "clue": "The is what the shepherds did immediately after finding Jesus",
-          "question": "What is to go and tell/spread the news",
+          "clue": "This is the city the two disciples were traveling to when Jesus joined them on the road",
+          "question": "Where is Emmaus?",
+          "hint": ""
+        },
+        {
+          "clue": "The is considered the central event of all of history, and the reason for the Christian faith",
+          "question": "What is the resurrection?",
           "hint": ""
         }
       ]
@@ -69,51 +70,52 @@
           "question": "What is community outreach?"
         },
         {
-          "clue": "This weekly thing happens on Wednesdays at 2:30, and we should try to be praying for it",
-          "question": "What is Child Evangelism Fellowship or Good News Club?"
+          "clue": "This important member of the body is having his birthday this Thursday",
+          "question": "Who is Easton Martin?",
+          "hint": "🐔"
         },
         {
-          "clue": "This lovable youth leader and parent is having a birthday this Wednesday, and we should wish him a happy one",
-          "question": "Who is Mr. Nathan?"
+          "clue": "This lovable youth leader and parent had a birthday yesterday, but her glory was stolen by her offspring",
+          "question": "Who is Mrs. Nicole?"
         },
         {
-          "clue": "This is the date for Easter 2026",
-          "question": "What is April 5?",
-          "hint": ""
+          "clue": "This is Big annual event is happening next week in the evening service",
+          "question": "What is the graduation recognition service?",
+          "hint": "🎓"
         },
         {
-          "clue": "Last Sunday Bro. Gene preached on this sacred location",
-          "question": "What is Gethsemane?"
+          "clue": "Last Sunday Bro. Gene preached a sermon titled 'Do You Want Your Situation To Be THIS'",
+          "question": "What is Different Than It Presently Is?"
         }
       ]
     },
     {
-      "name": "OT Rhyme Time",
+      "name": "Medieval Rhyme Time",
       "clues": [
         {
-          "clue": "This is the outer shell of the wooden ship God had created to save the world",
-          "question": "What is ark bark?",
-          "hint": "🛳️"
+          "clue": "This is the armed soldier who only works in the dark",
+          "question": "Who is the night knight?",
+          "hint": "⚔️"
         },
         {
-          "clue": "These are the guys that helped Daniel get out after his trial was completed",
-          "question": "What are lion's den men?",
-          "hint": "🦁"
+          "clue": "This is the what the Medieval fire breathing creatures used to move their treasure",
+          "question": "What are dragon wagons?",
+          "hint": "🐲"
         },
         {
-          "clue": "If Jonah's nemesis could have been legally prosecuted, he prolly would have ended up here",
-          "question": "What is whale jail?",
-          "hint": "🐋"
+          "clue": "This is really cold storm that was magically conjured up by a sorcerer",
+          "question": "What is a wizard blizzard?",
+          "hint": "🧙‍♂️❄️"
         },
         {
-          "clue": "After the first plague, the Egyptians had make their sand castles out of this gross side effect",
-          "question": "What is blood mud?",
-          "hint": ""
+          "clue": "This is where you'd keep your blunt weapon consisting of a heavy, often spiked metal or stone head on the end of a handle",
+          "question": "What is a mace case?",
+          "hint": "🔨"
         },
         {
-          "clue": "When he found out all his kids had been killed, and he had lost all his livestock, this is what got rent",
-          "question": "What is Job's robe?",
-          "hint": ""
+          "clue": "This is what you'd call all the trouble that comes with running a medieval fortress",
+          "question": "What is castle hassle?",
+          "hint": "🏰"
         }
       ]
     },
@@ -149,7 +151,38 @@
       ]
     },
     {
+      "name": "NURSERY RHYME POLICE REPORT",
+      "clues": [
+        {
+          "clue": "Took statement from this woman of advanced age. She reports finding her cabinets empty & her dog dead",
+          "question": "Who is old mother hubbard?",
+          "hint": ""
+        },
+        {
+          "clue": "First aid administered to this pair injured while tumbling down hill during water retrieval",
+          "question": "Who are Jack and Jill?",
+          "hint":""
+        },
+        {
+          "clue": "Suspect Peter, no last name, appears to have eaten these gourds as well as imprisoned his wife in one",
+          "question": "What are pumpkins",
+          "hint": "🎃"
+        },
+        {
+          "clue": "Child services summoned to check on mother with uncontrollable family; problem aggravated by this unusual residence",
+          "question": "What is a shoe?",
+          "hint": "🥾"
+        },
+        {
+          "clue": "Last known sighting of this person of interest: talking with bakery salesman while on way to festival",
+          "question": "Who is simple simon?",
+          "hint":"🥧"
+        }
+      ]
+    },
+    {
       "name": "Rett",
+      "skip"  : true,
       "clues": [
         {
           "clue": "This is what color socks {name} is wearing",
@@ -177,45 +210,47 @@
       ]
     },
     {
-      "name": "Who's that planet!?",
+      "name": "Who's that candy bar!?",
       "help": "https://www.textstudio.com/logo/pokemon-3d-text-318",
       "clues": [
         {
-          "image": "images/earth.jpg",
-          "imageQ": "images/earth.jpg",
-          "clue": "This is that planet",
-          "question": "Who is Earth?"
+          "image": "images/twix.png",
+          "imageQ": "images/twix.png",
+          "clue": "This is that candy bar",
+          "question": "Who is Twix?"
         },
         {
-          "image": "images/saturn.jpg",
-          "imageQ": "images/saturn.jpg",
-          "clue": "This is that planet",
-          "question": "Who is Saturn?"
+          "image": "images/kitkat.png",
+          "imageQ": "images/kitkat.png",
+          "clue": "This is that candy bar",
+          "question": "Who is Kit Kat?"
         },
         {
-          "image": "images/mars.jpg",
-          "imageQ": "images/mars.jpg",
-          "clue": "This is that planet",
-          "question": "Who is Mars?"
+          "image": "images/snickers.png",
+          "imageQ": "images/snickers.png",
+          "clue": "This is that candy bar",
+          "question": "Who is Snickers?"
         },
         {
-          "image": "images/jupiter.jpg",
-          "imageQ": "images/jupiter.jpg",
-          "clue": "This is that planet",
-          "question": "Who is Jupiter?"
+          "image": "images/payday.png",
+          "imageQ": "images/payday.png",
+          "clue": "This is that candy bar",
+          "question": "Who is Pay Day?",
+          "hint": "💰"
         },
         {
-          "image": "images/neptune.jpg",
-          "imageQ": "images/neptune.jpg",
-          "clue": "This is that planet",
-          "question": "Who is Neptune?"
+          "image": "images/babyruth.png",
+          "imageQ": "images/babyruth.png",
+          "clue": "This is that candy bar",
+          "question": "Who is Baby Ruth?",
+          "hint": "👶"
         }
       ]
     }
   ],
   "final": {
-    "category": "U.S. STATE NAMES",
-    "clue": "Of the 4 states that begin & end with the same vowel, the one that doesn't begin & end with the same letter as the other 3 states",
-    "question": "What is Ohio? (Alabama, Alaska, Arizona, Ohio)"
+    "category": "19th CENTURY AMERICA",
+    "clue": "It was written for American schoolkids to recite on the dedication day of the Chicago World's Fair",
+    "question": "What is The Pledge of Allegiance?"
   }
 }
