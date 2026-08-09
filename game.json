@@ -3,33 +3,33 @@
   "lookAHere2": "https://www.funtrivia.com/trivia-quiz/ForChildren/You-Can-Count-On-It-362573.html",
   "categories": [
     {
-      "name": "A BIBLICAL BURIAL*",
-      "help": "https://cryptii.com/",
+        "name": "Lifeguarding",
+        "help": "https://cryptii.com/",
       "clues": [
         {
-          "clue": "Matthew 14 tells of the burial of this beheaded forerunner of Jesus by some of his followers",
-          "question": "Who is John the Baptist?",
-          "hint": ""
+          "clue": "This is the first thing a lifeguard should do before entering the water to help a swimmer",
+          "question": "What is signal for backup or alert other lifeguards?",
+          "hint": "🆘"
         },
         {
-          "clue": "Together Isaac & Ishmael bury this man in the cave of Machpelah",
-          "question": "Who is Abraham?",
-          "hint": ""
+          "clue": "This flotation device is thrown to a struggling swimmer from the shore or deck",
+          "question": "What is a ring buoy?",
+          "hint": "🛟"
         },
         {
-          "clue": "According to Matthew, this man returns the silver given to him by the priests & they buy a potter's field to bury strangers in",
-          "question": "Who is Judas Iscariot?",
-          "hint": ""
+          "clue": "This is the recommended scanning pattern lifeguards use to watch their zone",
+          "question": "What is a 10/20 scan?",
+          "hint": "👀"
         },
         {
-          "clue": "In the King James Bible, when a man said he'd follow Jesus but first had to bury his dad, Jesus said these 6 words",
-          "question": "What is 'Let the dead bury their dead'?",
-          "hint": ""
+          "clue": "This CPR ratio of chest compressions to breaths is used for adults",
+          "question": "What is 30 to 2?",
+          "hint": "❤️"
         },
         {
-          "clue": "This rebel son of David is killed by Joab & his men, cast into a pit in the woods & covered by a heap of stones",
-          "question": "Who is Absalom?",
-          "hint": ""
+          "clue": "This condition, caused by inhaling water into the lungs, can happen even after a swimmer is out of the water",
+          "question": "What is dry drowning or secondary drowning?",
+          "hint": "🫁"
         }
       ]
     },
@@ -41,23 +41,23 @@
           "question": "Who is Bro. Joey?"
         },
         {
-          "clue": "This group of people mainly agreed with the Pharisees when they opposed Jesus",
-          "question": "Who are the Sadducees?",
+          "clue": "This is the Bible word for yeast",
+          "question": "What is leaven?",
           "hint": ""
         },
         {
-          "clue": "This group of people mainly agreed with the Sadducees when they opposed Jesus",
-          "question": "Who are the Pharisees?",
+          "clue": "These were the two groups of people in the church that were mentioned in today's lesson",
+          "question": "Who are the Jews and Gentiles?",
           "hint": ""
         },
         {
-          "clue": "This is the name for the only part of God's word that the Sadducees had confidence in",
-          "question": "What is the Torah?",
-          "hint": "📜"
+          "clue": "This is the strict literal and excessive adherence to the law for spiritual merit",
+          "question": "What is the legalism?",
+          "hint": ""
         },
         {
-          "clue": "The is the best way to handle 'foolish and unlearned' questions",
-          "question": "What is to avoid them?",
+          "clue": "The is the free and unearned favor and love of God",
+          "question": "What is grace?",
           "hint": ""
         }
       ]
@@ -66,31 +66,32 @@
       "name": "Around GSBC",
       "clues": [
         {
-          "clue": "This 3-day event starts this Wednesday",
-          "question": "What is Jr. Camp?"
+          "clue": "Important event will next be held next Saturday, August 22 at 10:30 am",
+          "question": "What is community outreach?"
         },
         {
-          "clue": "This sound man and parent is having his birthday this Thursday",
-          "question": "Who is Greg Martin?",
+          "clue": "This important couple celebrated their anniversary last Sunday, August 2nd",
+          "question": "Who are the Brackets?",
           "hint": ""
         },
         {
-          "clue": "This 5-day event starts next Monday, you better get ready?",
-          "question": "What is the Teen Extreme Summer Camp?"
+          "clue": "This fun event wil be hed next Sunday, after church?",
+          "question": "What is a volleyball fellowship?",
+          "hint": "🏐"
         },
         {
-          "clue": "This is Big annual 'Sunday' is happening in three weeks",
-          "question": "What is Caribbean Sunday?",
-          "hint": "🏝️"
+          "clue": "This important couple will be celebrating their anniversary on August 26",
+          "question": "Who are Bro. Gene and Mrs. Ann?",
+          "hint": ""
         },
         {
-          "clue": "These guest singers are supposed to be joining us tonight",
-          "question": "Who is the Agee Family?"
+          "clue": "Next week for Back to School Sunday, Rob Watkins will be joining us. This is the name of his duck",
+          "question": "What is Pauly"
         }
       ]
     },
     {
-      "name": "July 4th Rhyme Time",
+      "name": "Container Rhyme Time",
       "clues": [
         {
           "clue": "THis is the container you keep your national banners in",
@@ -98,24 +99,24 @@
           "hint": "🚩💰"
         },
         {
-          "clue": "This patriotic color doesn't lie",
-          "question": "What is true blue?",
-          "hint": "💙"
+          "clue": "This is where you put your orange big tailed wildlife",
+          "question": "What is a fox box?",
+          "hint": "🦊📦"
         },
         {
-          "clue": "This patriotic color is not loose",
-          "question": "What is tight white?",
-          "hint": "🩲🤍"
+          "clue": "This holds all your super smelly wildlife",
+          "question": "What is a skunk trunk?",
+          "hint":   "🦨"
         },
         {
-          "clue": "This patriotic color is no longer alive",
-          "question": "What is dead red?",
-          "hint": "❤️"
+          "clue": "This holds all your insects",
+          "question": "What is a bug jug?",
+          "hint": "🐛🏺"
         },
         {
-          "clue": "These are what you call the benefits of working where they sell sparklers",
-          "question": "What are firework perks?",
-          "hint": "🎆🎇"
+          "clue": "This metal container hold your big orange monkeys, like King Louie",
+          "question": "What is an orangutan can?",
+          "hint": "🦧🥫"
         }
       ]
     },
@@ -152,6 +153,7 @@
     },
     {
       "name": "Freedom Jokes",
+      "skip"  : true,
       "clues": [
         {
           "clue": "This is the reason there are no knock knock jokes about America",
@@ -181,8 +183,8 @@
       ]
     },
     {
-      "name": "Rett",
-      "skip"  : true,
+      "name": "Ethan",
+      "skip"  : false,
       "clues": [
         {
           "clue": "This is what color socks {name} is wearing",
@@ -210,41 +212,41 @@
       ]
     },
     {
-      "name": "Who's that Chicken!?",
+      "name": "Who's that Fish!?",
       "skip" : false,
       "help": "https://www.textstudio.com/logo/pokemon-3d-text-318",
       "clues": [
         {
-          "image": "images/whiteleghorn.webp",
-          "imageQ": "images/whiteleghorn.webp",
-          "clue": "This is that chicken",
-          "question": "Who is white leghorn?"
+          "image": "images/bass.jpg",
+          "imageQ": "images/bass.jpg",
+          "clue": "This is that fish",
+          "question": "Who is big mouth bass?"
         },
         {
-          "image": "images/RhodeIslandred.webp",
-          "imageQ": "images/RhodeIslandred.webp",
-          "clue": "This is that chicken",
-          "question": "Who is Rhode Island red?"
+          "image": "images/catfish.jpg",
+          "imageQ": "images/catfish.jpg",
+          "clue": "This is that fish",
+          "question": "Who is blue catfish?"
         },
         {
-          "image": "images/silkie.webp",
-          "imageQ": "images/silkie.webp",
-          "clue": "This is that chicken",
-          "question": "Who is Silkie?"
-        },
-        {
-          "image": "images/BuffOrpington.webp",
-          "imageQ": "images/BuffOrpington.webp",
-          "clue": "This is that chicken",
-          "question": "Who is Buff Orpington?",
+          "image": "images/rainbowtrout.webp",
+          "imageQ": "images/rainbowtrout.webp",
+          "clue": "This is that fish",
+          "question": "Who is rainbow trout?",
           "hint": ""
         },
         {
-          "image": "images/BarredRock.webp",
-          "imageQ": "images/BarredRock.webp",
-          "clue": "This is that chicken",
-          "question": "Who is Barred Rock?",
-          "hint": "🪨"
+          "image": "images/bluegill.jpg",
+          "imageQ": "images/bluegill.jpg",
+          "clue": "This is that fish",
+          "question": "Who is bluegill?"
+        },
+        {
+          "image": "images/shad.jpg",
+          "imageQ": "images/shad.jpg",
+          "clue": "This is that fish",
+          "question": "Who is American shad?",
+          "hint": "🐟"
         }
       ]
     }
