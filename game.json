@@ -3,33 +3,33 @@
   "lookAHere2": "https://www.funtrivia.com/trivia-quiz/ForChildren/You-Can-Count-On-It-362573.html",
   "categories": [
     {
-        "name": "Lifeguarding",
+        "name": "A HISTORY LESSON*",
         "help": "https://cryptii.com/",
       "clues": [
         {
-          "clue": "This is the first thing a lifeguard should do before entering the water to help a swimmer",
-          "question": "What is signal for backup or alert other lifeguards?",
-          "hint": "🆘"
+          "clue": "A monarch sometimes known as A-Ha was Egypt's first one of these rulers",
+          "question": "What is a pharaoh?",
+          "hint": ""
         },
         {
-          "clue": "This flotation device is thrown to a struggling swimmer from the shore or deck",
-          "question": "What is a ring buoy?",
-          "hint": "🛟"
+          "clue": "Nicholas Gilman, a signer of this historic document, helped get it ratified in his home state of New Hampshire",
+          "question": "What is the Constitution?",
+          "hint": "📜"
         },
         {
-          "clue": "This is the recommended scanning pattern lifeguards use to watch their zone",
-          "question": "What is a 10/20 scan?",
+          "clue": "Prussian field marshal Gebhard von Blucher helped defeat this French leader at Waterloo in 1815",
+          "question": "Who is Napoleon Bonaparte?",
           "hint": "👀"
         },
         {
-          "clue": "This CPR ratio of chest compressions to breaths is used for adults",
-          "question": "What is 30 to 2?",
+          "clue": "The Civil Rights Act & the Watts Riots happened during this decade of hope & tragedy",
+          "question": "What is the 1960s?",
           "hint": "❤️"
         },
         {
-          "clue": "This condition, caused by inhaling water into the lungs, can happen even after a swimmer is out of the water",
-          "question": "What is dry drowning or secondary drowning?",
-          "hint": "🫁"
+          "clue": "Louis XIV turned this building into a royal palace & the official residence of the court of France",
+          "question": "What is the Palace of Versailles?",
+          "hint": "🏰"
         }
       ]
     },
@@ -41,29 +41,30 @@
           "question": "Who is Bro. Joey?"
         },
         {
-          "clue": "This is the Bible word for yeast",
-          "question": "What is leaven?",
+          "clue": "This person's name means 'little rock'",
+          "question": "Who is Peter?",
           "hint": ""
         },
         {
-          "clue": "These were the two groups of people in the church that were mentioned in today's lesson",
-          "question": "Who are the Jews and Gentiles?",
+          "clue": "This is who the Bible says the head of the true church is",
+          "question": "Who is Jesus?",
           "hint": ""
         },
         {
-          "clue": "This is the strict literal and excessive adherence to the law for spiritual merit",
-          "question": "What is the legalism?",
+          "clue": "The is who is qualified to join the local visible church",
+          "question": "Who is the believers?",
           "hint": ""
         },
         {
-          "clue": "The is the free and unearned favor and love of God",
-          "question": "What is grace?",
+          "clue": "These are the 2 church ordinances",
+          "question": "What is baptism and the Lord's Supper?",
           "hint": ""
         }
       ]
     },
     {
       "name": "Around GSBC",
+      "skip"  : true,
       "clues": [
         {
           "clue": "Important event will next be held next Saturday, August 22 at 10:30 am",
@@ -91,32 +92,32 @@
       ]
     },
     {
-      "name": "Container Rhyme Time",
+      "name": "Fruit Rhyme Time",
       "clues": [
         {
-          "clue": "THis is the container you keep your national banners in",
-          "question": "What is a flag bag?",
-          "hint": "🚩💰"
+          "clue": "This is long yellow fruit put on to get ready for bed",
+          "question": "What is a banana pajamas?",
+          "hint": "🍌🛌"
         },
         {
-          "clue": "This is where you put your orange big tailed wildlife",
-          "question": "What is a fox box?",
-          "hint": "🦊📦"
+          "clue": "This a person who steals the large gourd that grows on a scrambling vine plant",
+          "question": "What is a mellon felon?",
+          "hint":   "🍉🍉"
         },
         {
-          "clue": "This holds all your super smelly wildlife",
-          "question": "What is a skunk trunk?",
-          "hint":   "🦨"
+          "clue": "This is a large teardrop-shaped fruit produced by the Ficus carica tree",
+          "question": "What is a big fig?",
+          "hint": ""
         },
         {
-          "clue": "This holds all your insects",
-          "question": "What is a bug jug?",
-          "hint": "🐛🏺"
+          "clue": "The place near the ocean where you find fuzzy skin fruit with a hard, grooved pit.",
+          "question": "What is a peach beach?",
+          "hint": "🍑🏖️"
         },
         {
-          "clue": "This metal container hold your big orange monkeys, like King Louie",
-          "question": "What is an orangutan can?",
-          "hint": "🦧🥫"
+          "clue": "This is the boat that takes the little red fruits across the river",
+          "question": "What is a cherry ferry?",
+          "hint": "🍒⛴️"
         }
       ]
     },
@@ -152,39 +153,8 @@
       ]
     },
     {
-      "name": "Freedom Jokes",
-      "skip"  : true,
-      "clues": [
-        {
-          "clue": "This is the reason there are no knock knock jokes about America",
-          "question": "What is because freedom rings?",
-          "hint": "🔔"
-        },
-        {
-          "clue": "THis is what our flag and a sad candy cane have in common",
-          "question": "What is they are both red white and blue?",
-          "hint":"❤️🤍💙"
-        },
-        {
-          "clue": "This is the most popular sport on the 4th of July",
-          "question": "What is flag football?",
-          "hint": "🚩🏈"
-        },
-        {
-          "clue": "This what one American flag said to the other American flag",
-          "question": "Who is nothing (it just waved)?",
-          "hint": "👋"
-        },
-        {
-          "clue": "This is why  fire get to enjoy a day off on the 4th of July",
-          "question": "What is because fire works?",
-          "hint":"🎆🎇"
-        }
-      ]
-    },
-    {
       "name": "Ethan",
-      "skip"  : false,
+      "skip"  : true,
       "clues": [
         {
           "clue": "This is what color socks {name} is wearing",
@@ -211,41 +181,100 @@
         }
       ]
     },
+   {
+      "name": "School Jokes",
+      "skip"  : false,
+      "clues": [
+        {
+          "clue": "This is why the math book looked so sad",
+          "question": "What is that is had so many problems?",
+          "hint": "✖️➗➕➖"
+        },
+        {
+          "clue": "This is an english teacher's favorite dinosaur",
+          "question": "What is a thesaurus rex?",
+          "hint":"🦖"
+        },
+        {
+          "clue": "This is why the chickens crosses the school playground",
+          "question": "What is to get to the other slide?",
+          "hint": ""
+        },
+        {
+          "clue": "This is why the sun didn’t go to college",
+          "question": "What is it already had a million degrees?",
+          "hint": ""
+        },
+        {
+          "clue": "This is a math teacher's favorite dessert",
+          "question": "What is pi?",
+          "hint":"🥧"
+        }
+      ]
+    },
     {
-      "name": "Who's that Fish!?",
+      "name": "The Old Testament*",
+      "skip"  : false,
+      "clues": [
+        {
+          "clue": "Jacob loved this son 'more than all his children, because he was the son of his old age'",
+          "question": "Who is Joseph?"
+        },
+        {
+          "clue": "Proverbs chapter 9 says that 'The fear of the Lord is the beginning of' this",
+          "question": "What is wisdom?"
+        },
+        {
+          "clue": "In the King James Bible, this book abbreviated Mal. is the last book of the Old Testament",
+          "question": "What is Malachi?",
+          "hint": ""
+        },
+        {
+          "clue": "Also called Canticles, this book is read in temple during the Passover holiday",
+          "question": "What is the Song of Solomon?",
+          "hint": ""
+        },
+        {
+          "clue": "In Esther this villain is hanged on the gallows that he'd prepared for Mordecai",
+          "question": "Who is Haman?",
+          "hint": ""
+        }
+      ]
+    }, {
+      "name": "Who's that Country!?",
       "skip" : false,
       "help": "https://www.textstudio.com/logo/pokemon-3d-text-318",
       "clues": [
         {
-          "image": "images/bass.jpg",
-          "imageQ": "images/bass.jpg",
-          "clue": "This is that fish",
-          "question": "Who is big mouth bass?"
+          "image": "images/italyb.png",
+          "imageQ": "images/italya.png",
+          "clue": "This is that country",
+          "question": "Who is Italy?"
         },
         {
-          "image": "images/catfish.jpg",
-          "imageQ": "images/catfish.jpg",
-          "clue": "This is that fish",
-          "question": "Who is blue catfish?"
+          "image": "images/usab.png",
+          "imageQ": "images/usaa.png",
+          "clue": "This is that country",
+          "question": "Who is the United States?"
         },
         {
-          "image": "images/rainbowtrout.webp",
-          "imageQ": "images/rainbowtrout.webp",
-          "clue": "This is that fish",
-          "question": "Who is rainbow trout?",
+          "image": "images/chinab.png",
+          "imageQ": "images/chinaa.png",
+          "clue": "This is that country",
+          "question": "Who is China?",
           "hint": ""
         },
         {
-          "image": "images/bluegill.jpg",
-          "imageQ": "images/bluegill.jpg",
-          "clue": "This is that fish",
-          "question": "Who is bluegill?"
+          "image": "images/mexicob.png",
+          "imageQ": "images/mexicoa.png",
+          "clue": "This is that country",
+          "question": "Who is Mexico?"
         },
         {
-          "image": "images/shad.jpg",
-          "imageQ": "images/shad.jpg",
-          "clue": "This is that fish",
-          "question": "Who is American shad?",
+          "image": "images/iraqb.png",
+          "imageQ": "images/iraqa.png",
+          "clue": "This is that country",
+          "question": "Who is Iraq?",
           "hint": "🐟"
         }
       ]
