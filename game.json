@@ -3,33 +3,33 @@
   "lookAHere2": "https://www.funtrivia.com/trivia-quiz/ForChildren/You-Can-Count-On-It-362573.html",
   "categories": [
     {
-        "name": "A HISTORY LESSON*",
-        "help": "https://cryptii.com/",
+      "name": "A PARTS OF SPEECH*",
+      "help": "https://cryptii.com/",
       "clues": [
         {
-          "clue": "A monarch sometimes known as A-Ha was Egypt's first one of these rulers",
-          "question": "What is a pharaoh?",
+          "clue": "Lenore Sellers<br/> Pittsburgh<br/> pizza",
+          "question": "What is a noun?",
           "hint": ""
         },
         {
-          "clue": "Nicholas Gilman, a signer of this historic document, helped get it ratified in his home state of New Hampshire",
-          "question": "What is the Constitution?",
-          "hint": "📜"
+          "clue": "Record<br/>play<br/>eject",
+          "question": "What is a verb?",
+          "hint": ""
         },
         {
-          "clue": "Prussian field marshal Gebhard von Blucher helped defeat this French leader at Waterloo in 1815",
-          "question": "Who is Napoleon Bonaparte?",
-          "hint": "👀"
+          "clue": "In<br/>on<br/>since",
+          "question": "What is a preposition?",
+          "hint": ""
         },
         {
-          "clue": "The Civil Rights Act & the Watts Riots happened during this decade of hope & tragedy",
-          "question": "What is the 1960s?",
-          "hint": "❤️"
+          "clue": "And<br/>but<br/>or<br/>(they'll get you pretty far)",
+          "question": "What is a conjunction?",
+          "hint": ""
         },
         {
-          "clue": "Louis XIV turned this building into a royal palace & the official residence of the court of France",
-          "question": "What is the Palace of Versailles?",
-          "hint": "🏰"
+          "clue": "Hey!<br/>Ouch!<br/>Ugh!",
+          "question": "What is an interjection?",
+          "hint": ""
         }
       ]
     },
@@ -41,58 +41,59 @@
           "question": "Who is Bro. Joey?"
         },
         {
-          "clue": "This person's name means 'little rock'",
-          "question": "Who is Peter?",
+          "clue": "This is what chapter of the Bible the lesson covered",
+          "question": "Who is 2 Corinthians 9?",
           "hint": ""
         },
         {
-          "clue": "This is who the Bible says the head of the true church is",
-          "question": "Who is Jesus?",
+          "clue": "This is the city/church that needed help in the lesson",
+          "question": "Who is Jerusalem?",
           "hint": ""
         },
         {
-          "clue": "The is who is qualified to join the local visible church",
-          "question": "Who is the believers?",
+          "clue": "A correct motivation is a very important part of this act of worship",
+          "question": "What is giving?",
           "hint": ""
         },
         {
-          "clue": "These are the 2 church ordinances",
-          "question": "What is baptism and the Lord's Supper?",
+          "clue": "These is another name fo a short verse that gives thanks",
+          "question": "What is a doxology?",
           "hint": ""
         }
       ]
     },
     {
       "name": "Around GSBC",
-      "skip"  : true,
+      "skip": false,
       "clues": [
         {
-          "clue": "Important event will next be held next Saturday, August 22 at 10:30 am",
+          "clue": "Important event will next be held next Saturday, November 14 22 at 10:30 am",
           "question": "What is community outreach?"
         },
         {
-          "clue": "This important couple celebrated their anniversary last Sunday, August 2nd",
-          "question": "Who are the Brackets?",
+          "clue": "This our guest speaker today who was just here for the LCF",
+          "question": "Who is Joel Logan?",
           "hint": ""
         },
         {
-          "clue": "This fun event wil be hed next Sunday, after church?",
-          "question": "What is a volleyball fellowship?",
-          "hint": "🏐"
+          "clue": "This event starts back this Wednesday at 2:30 pm?",
+          "question": "What is Good News Club?",
+          "hint": "and will continue through the school year"
         },
         {
-          "clue": "This important couple will be celebrating their anniversary on August 26",
-          "question": "Who are Bro. Gene and Mrs. Ann?",
+          "clue": "This important member recently celebrated his birthday on October 24 ",
+          "question": "Who is Bro. Gene?",
           "hint": ""
         },
         {
-          "clue": "Next week for Back to School Sunday, Rob Watkins will be joining us. This is the name of his duck",
-          "question": "What is Pauly"
+          "clue": "This is will be our guest speaker for Appreciation Sunday at the end of the month",
+          "question": "What Bro. David Gibbs, Jr.?"
         }
       ]
     },
     {
-      "name": "Fruit Rhyme Time",
+      "name": "Football Rhyme Time",
+      "skip": true,
       "clues": [
         {
           "clue": "This is long yellow fruit put on to get ready for bed",
@@ -102,7 +103,7 @@
         {
           "clue": "This a person who steals the large gourd that grows on a scrambling vine plant",
           "question": "What is a mellon felon?",
-          "hint":   "🍉🍉"
+          "hint": "🍉🍉"
         },
         {
           "clue": "This is a large teardrop-shaped fruit produced by the Ficus carica tree",
@@ -123,7 +124,7 @@
     },
     {
       "name": " EMOJI MOVIES",
-      "skip"  : true,
+      "skip": true,
       "clues": [
         {
           "clue": "🔎🐠",
@@ -133,12 +134,12 @@
         {
           "clue": "🦁👑",
           "question": "What is the Lion King?",
-          "hint":""
+          "hint": ""
         },
         {
           "clue": "🪀📖",
           "question": "What is Toy Story?",
-          "hint":""
+          "hint": ""
         },
         {
           "clue": "🤥",
@@ -154,7 +155,7 @@
     },
     {
       "name": "Ethan",
-      "skip"  : true,
+      "skip": true,
       "clues": [
         {
           "clue": "This is what color socks {name} is wearing",
@@ -181,108 +182,111 @@
         }
       ]
     },
-   {
-      "name": "School Jokes",
-      "skip"  : false,
+    {
+      "name": "Football Jokes",
+      "skip": false,
       "clues": [
         {
-          "clue": "This is why the math book looked so sad",
-          "question": "What is that is had so many problems?",
-          "hint": "✖️➗➕➖"
-        },
-        {
-          "clue": "This is an english teacher's favorite dinosaur",
-          "question": "What is a thesaurus rex?",
-          "hint":"🦖"
-        },
-        {
-          "clue": "This is why the chickens crosses the school playground",
-          "question": "What is to get to the other slide?",
+          "clue": "This is why the football team went to the bank",
+          "question": "What is to get their quarterback?",
           "hint": ""
         },
         {
-          "clue": "This is why the sun didn’t go to college",
-          "question": "What is it already had a million degrees?",
+          "clue": "This is why football players can't wear glasses on the field",
+          "question": "What is because it's a contact sport?",
           "hint": ""
         },
         {
-          "clue": "This is a math teacher's favorite dessert",
-          "question": "What is pi?",
-          "hint":"🥧"
+          "clue": "This is why Cinderella was such a lousy football player",
+          "question": "What is because she kept running away from the ball?",
+          "hint": ""
+        },
+        {
+          "clue": "This is what state football players go when they need a new uniform",
+          "question": "What is New Jersey?",
+          "hint": ""
+        },
+        {
+          "clue": "This is what the receiver said to the football",
+          "question": "What is I'll catch you later?",
+          "hint": ""
         }
       ]
     },
     {
-      "name": "The Old Testament*",
-      "skip"  : false,
+      "name": "NUMBER PATTERNS*",
+      "skip": false,
       "clues": [
         {
-          "clue": "Jacob loved this son 'more than all his children, because he was the son of his old age'",
-          "question": "Who is Joseph?"
+          "clue": "400, 200, 100, 50, __, ",
+          "question": "What is 25?",
+          "hint": "dividing by 2 each time"
         },
         {
-          "clue": "Proverbs chapter 9 says that 'The fear of the Lord is the beginning of' this",
-          "question": "What is wisdom?"
+          "clue": "5, 8, 11, 14, 17, __",
+          "question": "What is 20?",
+          "hint": "adding 3 each time"
         },
         {
-          "clue": "In the King James Bible, this book abbreviated Mal. is the last book of the Old Testament",
-          "question": "What is Malachi?",
-          "hint": ""
+          "clue": "12, 34, 56, 78, ___",
+          "question": "What is 100?",
+          "hint": " adding 22 each time"
         },
         {
-          "clue": "Also called Canticles, this book is read in temple during the Passover holiday",
-          "question": "What is the Song of Solomon?",
-          "hint": ""
+          "clue": "1, 1, 2, 3, 5, 8, __",
+          "question": "What is 13?",
+          "hint": "Fibonacci sequence"
         },
         {
-          "clue": "In Esther this villain is hanged on the gallows that he'd prepared for Mordecai",
-          "question": "Who is Haman?",
-          "hint": ""
+          "clue": "1, 4, 9, 16, 25, __",
+          "question": "What is 36?",
+          "hint": "squaring the numbers"
         }
       ]
-    }, {
-      "name": "Who's that Country!?",
-      "skip" : false,
+    },
+    {
+      "name": "Who's that Book of the Bible!?",
+      "skip": false,
       "help": "https://www.textstudio.com/logo/pokemon-3d-text-318",
       "clues": [
         {
-          "image": "images/italyb.png",
-          "imageQ": "images/italya.png",
-          "clue": "This is that country",
-          "question": "Who is Italy?"
+          "image": "images/numbers.jpeg",
+          "imageQ": "images/numbers.jpeg",
+          "clue": "This is that Book of the Bible",
+          "question": "Who is Numbers?"
         },
         {
-          "image": "images/usab.png",
-          "imageQ": "images/usaa.png",
-          "clue": "This is that country",
-          "question": "Who is the United States?"
+          "image": "images/2kings.jpeg",
+          "imageQ": "images/2kings.jpeg",
+          "clue": "This is that Book of the Bible",
+          "question": "Who is 2 Kings?"
         },
         {
-          "image": "images/chinab.png",
-          "imageQ": "images/chinaa.png",
-          "clue": "This is that country",
-          "question": "Who is China?",
+          "image": "images/hebrews.jpeg",
+          "imageQ": "images/hebrews.jpeg",
+          "clue": "This is that Book of the Bible",
+          "question": "Who is the Book of Hebrews?",
           "hint": ""
         },
         {
-          "image": "images/mexicob.png",
-          "imageQ": "images/mexicoa.png",
-          "clue": "This is that country",
-          "question": "Who is Mexico?"
+          "image": "images/songsofsolomon.jpeg",
+          "imageQ": "images/songsofsolomon.jpeg",
+          "clue": "This is that Book of the Bible",
+          "question": "Who is Songs of Solomon?"
         },
         {
-          "image": "images/iraqb.png",
-          "imageQ": "images/iraqa.png",
-          "clue": "This is that country",
-          "question": "Who is Iraq?",
+          "image": "images/mark.jpeg",
+          "imageQ": "images/mark.jpeg",
+          "clue": "This is that Book of the Bible",
+          "question": "Who is the Gospel of Mark?",
           "hint": "🐟"
         }
       ]
     }
   ],
   "final": {
-    "category": "HAPPY 4th of JULY",
-    "clue": "The new 50-star U.S. flag was officially flown for the first time on July 4th in this year, 10 months after Hawaii statehood",
-    "question": "What is 1960?"
+    "category": "US Geography",
+    "clue": "With a common nickname that refers to its size, this is the largest island in the United States",
+    "question": "What is Hawaii?"
   }
 }
